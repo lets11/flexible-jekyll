@@ -29,7 +29,7 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
-  # - jekyll-youtube
+  - jekyll-youtube
   - jemoji
 
 paginate: 8
